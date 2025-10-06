@@ -1,0 +1,4 @@
+We fixed lambda=0.6 in the power calibrator E_lambda = lambda * P^{lambda-1}.
+Under H0 with P ~ Uniform(0,1), E[E_lambda] = 1 for any lambda in (0,1].
+Moreover, Var(E_lambda) is finite if and only if lambda > 1/2; indeed E[E_lambda^2] = lambda^2/(2*lambda - 1).
+At lambda=0.6, E[E^2]=1.8, providing good tail control for multiplicative evidence and stable e-BH.

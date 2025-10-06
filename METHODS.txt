@@ -1,0 +1,7 @@
+GLASS–E pipeline snapshot
+-------------------------
+Years: 2000–2021
+N countries used: 195
+Trend filtering order k=1 (piecewise linear)
+lambda_g=0.668, lambda_h=0.334
+E-value lambda=0.6, FDR alpha=0.1

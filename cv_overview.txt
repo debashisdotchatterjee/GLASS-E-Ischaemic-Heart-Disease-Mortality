@@ -1,0 +1,2 @@
+Best CV lambdas: lambda_g=1.33573, lambda_h=0.333932
+Panel MSE: heuristic=0.00107724, CV=0.001086
